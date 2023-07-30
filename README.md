@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAKRicco98
+- 👋 Hi, I’m Marcus Koseck
 - 👀 I’m interested in video games, mathematics, physics, and machine learning.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing yet...
